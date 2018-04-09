@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1522778727 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\main.cpp
+	<vector>
+	<fstream>
+	<iostream>
+	<ctype.h>
+	<sstream>
+	"fann.h"
+	"pojemnik.h"
+
+1127432888 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\doublefann.c
+	"config.h"
+	"doublefann.h"
+	"fann.c"
+	"fann_io.c"
+	"fann_train.c"
+	"fann_train_data.c"
+	"fann_error.c"
+	"fann_cascade.c"
+
+1158215778 c:\users\myjot\documents\pk3\fann\languagedetecttwo\config.h
+
+1122933104 c:\users\myjot\documents\pk3\fann\languagedetecttwo\doublefann.h
+	"fann.h"
+
+1522341042 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann.h
+	"fixedfann.h"
+	"floatfann.h"
+	<sys/time.h>
+	<windows.h>
+	"fann_error.h"
+	"fann_activation.h"
+	"fann_data.h"
+	"fann_internal.h"
+	"fann_train.h"
+	"fann_cascade.h"
+	"fann_io.h"
+
+1122933104 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fixedfann.h
+	"fann.h"
+
+1122933104 c:\users\myjot\documents\pk3\fann\languagedetecttwo\floatfann.h
+	"fann.h"
+
+1142291111 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_error.h
+	<stdio.h>
+
+1150651923 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_activation.h
+
+1158213726 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_data.h
+	<stdio.h>
+
+1150651923 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_internal.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"fann_data.h"
+
+1158213726 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_train.h
+
+1158213726 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_cascade.h
+
+1140587365 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_io.h
+
+1522340127 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"config.h"
+	"fann.h"
+
+1142291111 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_io.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1158213725 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_train.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1150651904 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_train_data.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1142291111 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_error.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1158213725 c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_cascade.c
+	"config.h"
+	"fann.h"
+	"string.h"
+
+1158213725 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_cascade.c
+	"config.h"
+	"fann.h"
+	"string.h"
+
+1142291111 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_error.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1142291111 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_io.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1158213725 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_train.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1150651904 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann_train_data.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1127432888 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fixedfann.c
+	"config.h"
+	"fixedfann.h"
+	"fann.c"
+	"fann_io.c"
+	"fann_train.c"
+	"fann_train_data.c"
+	"fann_error.c"
+	"fann_cascade.c"
+
+1127432888 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\floatfann.c
+	"config.h"
+	"floatfann.h"
+	"fann.c"
+	"fann_io.c"
+	"fann_train.c"
+	"fann_train_data.c"
+	"fann_error.c"
+	"fann_cascade.c"
+
+1522341252 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\fann.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"config.h"
+	"fann.h"
+
+1522770235 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\src\pojemnik.cpp
+	"pojemnik.h"
+
+1522770249 c:\users\myjot\documents\pk3\fann\languagedetecttwo\include\pojemnik.h
+
