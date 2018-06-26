@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1522778727 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\main.cpp
+1530044393 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\main.cpp
 	<vector>
 	<fstream>
 	<iostream>
@@ -176,8 +176,8 @@
 	"config.h"
 	"fann.h"
 
-1522770235 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\src\pojemnik.cpp
+1530039894 source:c:\users\myjot\documents\pk3\fann\languagedetecttwo\src\pojemnik.cpp
 	"pojemnik.h"
 
-1522770249 c:\users\myjot\documents\pk3\fann\languagedetecttwo\include\pojemnik.h
+1530039894 c:\users\myjot\documents\pk3\fann\languagedetecttwo\include\pojemnik.h
 

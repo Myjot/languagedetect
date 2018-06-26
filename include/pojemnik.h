@@ -6,9 +6,9 @@ class pojemnik
 {
     public:
         pojemnik();
-        pojemnik(float tab[26]);
+        pojemnik(float tab[36]);
         virtual ~pojemnik();
-        float frequencies[26];
+        float frequencies[36];
     protected:
 
     private:
